@@ -215,6 +215,7 @@ body{
     }
 
     .main__link{
+        display: none; /*hacer un nuevo commit para actualizar el codigo en git*/
         color: var(--White);
         text-decoration: none;
     }

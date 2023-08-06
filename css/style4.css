@@ -36,7 +36,7 @@ body{
 
 .main__hero{
     min-height: 500px;
-    background-image:url(../images/Kany_1.jpg);
+    background-image:url(../images/SedwayG30LP1.jpg);
     background-size: cover;
     background-position: center;
     grid-area: main;
@@ -51,17 +51,17 @@ body{
     cursor: pointer;
 }
 
-  /*menu hamburguesa*/   
 .bars__menu{
     width: 30px;
     height: 30px;
     opacity: 0.6;
     cursor: pointer;
     padding-top: .5em;
-    box-shadow: .5px gray 2px;
-    
-    
+    box-shadow: .5px gray 2px;   
 }
+
+   /*menu hamburguesa*/   
+
 .bars__menu span{
     display: block;
     width: 100%;
@@ -85,8 +85,8 @@ body{
     translate: (-4px, 2px);
 }
 
-   /*menu hamburguesa*/   
-   
+  /*menu hamburguesa*/   
+
 .main__links{
     display: none;
 }
@@ -153,7 +153,7 @@ body{
     grid-area: image1;
     min-height: 250px;
     height: 100%;
-    background-image:url(../images/Kany_3.jpg);
+    background-image:url(../images/SedwayG30LP2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -164,7 +164,7 @@ body{
 
 .main__bg--second{
     grid-area: image2;
-    background-image: url(../images/marek-rucinski-b0bFZKjWDVY-unsplash.jpg);
+    background-image: url(../images/SedwayG30LP3.jpg);
 }
 
 
