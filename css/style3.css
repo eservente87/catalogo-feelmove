@@ -164,7 +164,9 @@ body{
 
 .main__bg--second{
     grid-area: image2;
-    background-image: url(../images/kanyultima.jpj.html);
+    background-image: url(../images/marek-rucinski-b0bFZKjWDVY-unsplash.jpg);
+    
+    
 }
 
 
@@ -205,7 +207,7 @@ body{
         transition: none;
         justify-content: flex-end;
         gap: 1.5em;
-        font-weight: 500;
+        
         
     }
 
